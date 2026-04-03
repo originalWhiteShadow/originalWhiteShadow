@@ -39,7 +39,7 @@
 ## Tech Stack
 
 <p align="center">
-	<img src="https://skillicons.dev/icons?i=python,c,java,flutter,mongodb,express,react,nodejs,azure,git,github,vscode" alt="Tech icons" />
+	<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nextjs,threejs,nodejs,express,django,flask,firebase,mongodb,mysql,python,java,c,cpp,tensorflow,pytorch,docker,azure,gcp,git,webpack,vercel,postman,blender,vscode" alt="Tech icons" />
 </p>
 
 <p align="center">
@@ -47,6 +47,13 @@
 	<img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Deep Learning" />
 	<img src="https://img.shields.io/badge/Problem%20Solving-Enthusiast-1B4332?style=for-the-badge" alt="Problem Solving" />
 </p>
+
+- **Frontend:** HTML • CSS • TailwindCSS • JavaScript • React.js • Next.js • Three.js • Anime.js
+- **Backend:** Node.js • Express.js • Django • Flask • Firebase Admin SDK • REST APIs
+- **Databases:** Firebase Firestore • MongoDB • MySQL • SQL
+- **Programming Languages:** C • C++ • Python • Java • JavaScript
+- **AI & Tools:** Hugging Face API • Gemini AI • Gradio • TensorFlow • PyTorch • MONAI
+- **Utilities:** Git • Webpack • Vercel • Postman • GCP • Colab • Blender • Firebase Hosting • Docker
 
 ---
 
