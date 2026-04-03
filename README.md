@@ -35,7 +35,7 @@
 
 <p align="center">
 	<img src="https://github-readme-stats.vercel.app/api?username=originalWhiteShadow&show_icons=true&theme=radical&hide_border=true&rank_icon=github" height="170" alt="GitHub stats" />
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=originalWhiteShadow&layout=compact&theme=radical&hide_border=true" height="170" alt="Top languages" />
+	<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=originalWhiteShadow&theme=radical" height="170" alt="Top languages" />
 </p>
 
 <p align="center">
