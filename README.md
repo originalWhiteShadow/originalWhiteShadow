@@ -48,6 +48,19 @@
 
 ---
 
+## Certifications
+
+<p align="center">
+	<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="9bedd713-b9e6-4e6b-b7e8-d33b536f31c0" data-share-badge-host="https://www.credly.com"></div>
+	<script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+</p>
+
+<p align="center">
+	<a href="https://www.credly.com/badges/9bedd713-b9e6-4e6b-b7e8-d33b536f31c0/public_url" target="_blank">View certification badge on Credly</a>
+</p>
+
+---
+
 ## More Than Just Code
 
 - Bass grooves and guitar sessions keep my creativity alive.
