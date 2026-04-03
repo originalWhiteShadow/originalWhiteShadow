@@ -51,12 +51,22 @@
 ## Certifications
 
 <p align="center">
+	<a href="https://www.credly.com/badges/9bedd713-b9e6-4e6b-b7e8-d33b536f31c0/public_url" target="_blank">
+		<img src="https://images.credly.com/size/340x340/images/bc70837c-99ae-499d-a31d-2a7be79095e6/BadgeEmblem_AILiteracy.png" width="120" alt="AI Literacy Certification Badge" />
+	</a>
+	<a href="https://learn.microsoft.com/api/achievements/share/en-us/poornananda-2252/FQHLKS5X?sharingId=911C837D552FDB83" target="_blank">
+		<img src="https://learn.microsoft.com/training/achievements/configure-project-repository-structure-support-secure-pipelines-social.png" width="120" alt="Microsoft Learn Achievement Badge" />
+	</a>
+</p>
+
+<p align="center">
 	<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="9bedd713-b9e6-4e6b-b7e8-d33b536f31c0" data-share-badge-host="https://www.credly.com"></div>
 	<script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 </p>
 
 <p align="center">
-	<a href="https://www.credly.com/badges/9bedd713-b9e6-4e6b-b7e8-d33b536f31c0/public_url" target="_blank">View certification badge on Credly</a>
+	<a href="https://www.credly.com/badges/9bedd713-b9e6-4e6b-b7e8-d33b536f31c0/public_url" target="_blank">View Credly badge</a> | 
+	<a href="https://learn.microsoft.com/api/achievements/share/en-us/poornananda-2252/FQHLKS5X?sharingId=911C837D552FDB83" target="_blank">View Microsoft Learn achievement</a>
 </p>
 
 ---
