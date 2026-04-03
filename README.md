@@ -2,15 +2,15 @@
 <h3 align="center">Builder | Problem Solver | Open-Source Community Starter | Creative Technologist</h3>
 
 <p align="center">
-	<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1020,50:14213d,100:1f3c88&height=220&section=header&text=Poornananda&fontSize=48&fontColor=f5f7ff&animation=fadeIn&fontAlignY=35" alt="Animated header" />
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1020,50:14213d,100:1f3c88&height=220&section=header&text=Welcome%20to%20my%20profile&fontSize=38&fontColor=f5f7ff&animation=fadeIn&fontAlignY=35" alt="Animated header" />
 </p>
 
 <p align="center">
-	<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=22&duration=2800&pause=1200&center=true&vCenter=true&width=800&lines=Creative+Technologist+%7C+Open-Source+Builder+%7C+Story+Driven+Maker;Crafting+software%2C+communities%2C+and+visual+stories" alt="Cinematic subtitle" />
-</p>
+	<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=22&duration=2800&pause=1200&center=true&vCenter=true&width=800&lines=Creative+Technologist+%7C+Open-Source+Builder+%7C+Story+Driven+Maker" alt="Cinematic subtitle line 1" />
+	</p>
 
 <p align="center">
-	<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2400&pause=800&center=true&vCenter=true&width=900&lines=Code.+Create.+Contribute.;Python+%7C+C+%7C+Java+%7C+Flutter+%7C+MERN;Machine+Learning+%7C+Deep+Learning;Problem+Solving+with+Enthusiasm" alt="Typing animation" />
+	<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=22&duration=2800&pause=1200&center=true&vCenter=true&width=800&lines=Crafting+software%2C+communities%2C+and+visual+stories" alt="Cinematic subtitle line 2" />
 </p>
 
 <p align="center">
