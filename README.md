@@ -1,26 +1,45 @@
 <h1 align="center">Hi, I'm Poornananda</h1>
-<h3 align="center">Builder, Problem Solver, Open-Source Community Starter, and Creative Soul</h3>
+<h3 align="center">Builder | Problem Solver | Open-Source Community Starter | Creative Technologist</h3>
 
 <p align="center">
-	<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=900&center=true&vCenter=true&width=900&lines=Code.+Create.+Contribute.;Python+%7C+C+%7C+Java+%7C+Flutter+%7C+MERN;Machine+Learning+%7C+Deep+Learning;Problem+Solving+with+Enthusiasm" alt="Typing animation" />
+	<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2400&pause=800&center=true&vCenter=true&width=900&lines=Code.+Create.+Contribute.;Python+%7C+C+%7C+Java+%7C+Flutter+%7C+MERN;Machine+Learning+%7C+Deep+Learning;Problem+Solving+with+Enthusiasm" alt="Typing animation" />
 </p>
 
 ---
 
 ## About Me
 
-- I love building impactful tech with strong fundamentals and clean implementation.
-- I work across multiple ecosystems: **Python, C, Java, Flutter, ML/DL, and MERN**.
+- I build impactful software with strong fundamentals and practical execution.
+- I work across **Python, C, Java, Flutter, ML/DL, and MERN**.
 - I started the open-source community at **SMVITM, Bantakal**.
-- I co-created the community website with **Tejas Nayak**: [arise-osc-test.vercel.app](https://arise-osc-test.vercel.app)
-- Beyond tech, I play **bass**, **guitar**, and I am deeply into **photography**.
+- I co-created the ARISE OSC website with **Tejas Nayak**: [arise-osc-test.vercel.app](https://arise-osc-test.vercel.app)
+
+---
+
+## Personal Achievements
+
+- **YUGMA TechFest 1.0 Hackathon** - **3rd Place** (National Level)
+- **Monaithon Hackathon @ JNNCE, Shivamogga** - **1st Place** (National Level)
+- **IEEE Eureka, Pune (2024)** - **Top 15 Team** (National Level)
+- **IEEE Eureka, Pune (2025)** - **Top 30 Team** (National Level)
+- **Multiple Photography Competition Winner** (National Level)
+
+---
+
+## Film Work and Creative Portfolio
+
+- Worked on the short film **Only to You I Surrender (Twameva Sharanam Mama)** as **Assistant DOP and Crew**.
+- The short film won an award at **IDSFFK 2025 - 17th International Documentary and Short Film Festival of Kerala**.
+- Film details highlighted across festival pages: **India**, **Tulu (English subtitles)**, **30 minutes**, **Kolkata Premiere**.
+- Featured on:
+  [OurCinema article](https://www.ourcinema.in/festival/film/only-to-you-i-surrender-twameva-sharanam-mama/) and [IDSFFK film detail page](https://idsffk.in/filmdetail/NTgzMTExMDEuNjQ=).
 
 ---
 
 ## Tech Stack
 
 <p align="center">
-	<img src="https://skillicons.dev/icons?i=python,c,java,flutter,mongodb,express,react,nodejs,git,github,vscode" alt="Tech icons" />
+	<img src="https://skillicons.dev/icons?i=python,c,java,flutter,mongodb,express,react,nodejs,azure,git,github,vscode" alt="Tech icons" />
 </p>
 
 <p align="center">
@@ -52,34 +71,29 @@
 
 <p align="center">
 	<a href="https://www.credly.com/badges/9bedd713-b9e6-4e6b-b7e8-d33b536f31c0/public_url" target="_blank">
-		<img src="https://images.credly.com/size/340x340/images/bc70837c-99ae-499d-a31d-2a7be79095e6/BadgeEmblem_AILiteracy.png" width="120" alt="AI Literacy Certification Badge" />
+		<img src="https://images.credly.com/size/340x340/images/bc70837c-99ae-499d-a31d-2a7be79095e6/BadgeEmblem_AILiteracy.png" width="96" alt="AI Literacy Certification Badge" />
 	</a>
 	<a href="https://learn.microsoft.com/api/achievements/share/en-us/poornananda-2252/FQHLKS5X?sharingId=911C837D552FDB83" target="_blank">
-		<img src="https://learn.microsoft.com/training/achievements/configure-project-repository-structure-support-secure-pipelines-social.png" width="120" alt="Microsoft Learn Achievement Badge" />
+		<img src="https://learn.microsoft.com/training/achievements/configure-project-repository-structure-support-secure-pipelines-social.png" width="96" alt="Microsoft Learn Achievement Badge" />
 	</a>
 </p>
 
 <p align="center">
-	<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="9bedd713-b9e6-4e6b-b7e8-d33b536f31c0" data-share-badge-host="https://www.credly.com"></div>
-	<script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-</p>
-
-<p align="center">
-	<a href="https://www.credly.com/badges/9bedd713-b9e6-4e6b-b7e8-d33b536f31c0/public_url" target="_blank">View Credly badge</a> | 
-	<a href="https://learn.microsoft.com/api/achievements/share/en-us/poornananda-2252/FQHLKS5X?sharingId=911C837D552FDB83" target="_blank">View Microsoft Learn achievement</a>
+	<a href="https://www.credly.com/badges/9bedd713-b9e6-4e6b-b7e8-d33b536f31c0/public_url" target="_blank">Credly</a> | 
+	<a href="https://learn.microsoft.com/api/achievements/share/en-us/poornananda-2252/FQHLKS5X?sharingId=911C837D552FDB83" target="_blank">Microsoft Learn</a>
 </p>
 
 ---
 
-## More Than Just Code
+## Beyond Tech
 
-- Bass grooves and guitar sessions keep my creativity alive.
-- Photography helps me observe details, composition, and storytelling.
-- I enjoy building communities, sharing knowledge, and turning ideas into action.
+- I play **bass** and **guitar**.
+- I am passionate about **photography** and visual storytelling.
+- I enjoy building communities and helping peers grow.
 
 ---
 
-## Let's Build Something Awesome
+## Community
 
 <p align="center">
 	<a href="https://arise-osc-test.vercel.app" target="_blank">
