@@ -2,7 +2,19 @@
 <h3 align="center">Builder | Problem Solver | Open-Source Community Starter | Creative Technologist</h3>
 
 <p align="center">
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1020,50:14213d,100:1f3c88&height=220&section=header&text=Poornananda&fontSize=48&fontColor=f5f7ff&animation=fadeIn&fontAlignY=35" alt="Animated header" />
+</p>
+
+<p align="center">
+	<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=22&duration=2800&pause=1200&center=true&vCenter=true&width=800&lines=Creative+Technologist+%7C+Open-Source+Builder+%7C+Story+Driven+Maker;Crafting+software%2C+communities%2C+and+visual+stories" alt="Cinematic subtitle" />
+</p>
+
+<p align="center">
 	<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2400&pause=800&center=true&vCenter=true&width=900&lines=Code.+Create.+Contribute.;Python+%7C+C+%7C+Java+%7C+Flutter+%7C+MERN;Machine+Learning+%7C+Deep+Learning;Problem+Solving+with+Enthusiasm" alt="Typing animation" />
+</p>
+
+<p align="center">
+	<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="320" alt="Animated coding visual" />
 </p>
 
 ---
@@ -106,4 +118,8 @@
 	<a href="https://arise-osc-test.vercel.app" target="_blank">
 		<img src="https://img.shields.io/badge/Visit-ARISE%20Open%20Source%20Community-0B3D91?style=for-the-badge" alt="ARISE OSC" />
 	</a>
+</p>
+
+<p align="center">
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=150&section=footer&animation=twinkling" alt="Animated footer" />
 </p>
