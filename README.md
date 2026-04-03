@@ -34,16 +34,16 @@
 ## Contribution and Activity Charts
 
 <p align="center">
-	<img src="https://github-readme-stats.vercel.app/api?username=originalWhiteShadow&show_icons=true&theme=radical&hide_border=true&rank_icon=github" height="170" alt="GitHub stats" />
+	<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=originalWhiteShadow&theme=radical" height="170" alt="GitHub stats" />
 	<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=originalWhiteShadow&theme=radical" height="170" alt="Top languages" />
 </p>
 
 <p align="center">
-	<img src="https://streak-stats.demolab.com?user=originalWhiteShadow&theme=radical&hide_border=true" alt="GitHub streak" />
+	<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=originalWhiteShadow&theme=radical&utcOffset=5.5" alt="Productive time" />
 </p>
 
 <p align="center">
-	<img src="https://github-readme-activity-graph.vercel.app/graph?username=originalWhiteShadow&theme=react-dark&hide_border=true&area=true" alt="Activity graph" />
+	<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=originalWhiteShadow&theme=radical" alt="Activity graph" />
 </p>
 
 ---
