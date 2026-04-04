@@ -17,6 +17,12 @@
 	<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="320" alt="Animated coding visual" />
 </p>
 
+<p align="center">
+	<a href="https://portfolio-mocha-phi-29.vercel.app/" target="_blank">
+		<img src="https://img.shields.io/badge/Live%20Portfolio-Visit%20Now-00C2FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Portfolio" />
+	</a>
+</p>
+
 ---
 
 ## About Me
@@ -117,6 +123,9 @@
 <p align="center">
 	<a href="https://arise-osc-test.vercel.app" target="_blank">
 		<img src="https://img.shields.io/badge/Visit-ARISE%20Open%20Source%20Community-0B3D91?style=for-the-badge" alt="ARISE OSC" />
+	</a>
+	<a href="https://portfolio-mocha-phi-29.vercel.app/" target="_blank">
+		<img src="https://img.shields.io/badge/Portfolio-portfolio--mocha--phi--29.vercel.app-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Website" />
 	</a>
 </p>
 
