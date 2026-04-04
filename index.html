@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="Poornananda portfolio website" />
+  <title>Poornananda | Portfolio</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&family=Syne:wght@600;700;800&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div class="noise"></div>
+  <div class="bg-orb orb-a"></div>
+  <div class="bg-orb orb-b"></div>
+
+  <header class="topbar">
+    <a class="logo" href="#home">PN</a>
+    <nav>
+      <a href="#about">About</a>
+      <a href="#skills">Skills</a>
+      <a href="#tools">Tools</a>
+      <a href="#achievements">Achievements</a>
+      <a href="#contact">Contact</a>
+    </nav>
+  </header>
+
+  <main>
+    <section id="home" class="hero section">
+      <div class="hero-left" data-reveal>
+        <p class="eyebrow">Creative Technologist</p>
+        <h1>
+          Building software,
+          <span class="accent">communities</span>,
+          and visual stories.
+        </h1>
+        <p id="dynamicBio" class="lead">
+          Problem solver and maker across AI, web, mobile, and open-source communities.
+        </p>
+        <div class="cta-row">
+          <a class="btn btn-primary" href="https://github.com/originalWhiteShadow" target="_blank" rel="noreferrer noopener">GitHub Profile</a>
+          <a class="btn btn-secondary" href="https://arise-osc-test.vercel.app" target="_blank" rel="noreferrer noopener">ARISE OSC</a>
+        </div>
+      </div>
+
+      <div class="hero-right" data-reveal>
+        <div class="avatar-card">
+          <img id="githubAvatar" src="https://github.com/originalWhiteShadow.png?size=320" alt="Poornananda profile photo" />
+          <div class="avatar-meta">
+            <p id="githubName">Poornananda</p>
+            <span id="githubHandle">@originalWhiteShadow</span>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section id="about" class="section" data-reveal>
+      <h2>About</h2>
+      <p>
+        I build impactful software with strong fundamentals and practical execution. I started the
+        open-source community at SMVITM, Bantakal, and co-created the ARISE OSC website with Tejas Nayak.
+      </p>
+      <p>
+        Beyond code, I work in photography, bass, guitar, and short film production with a storytelling-first mindset.
+      </p>
+    </section>
+
+    <section id="skills" class="section" data-reveal>
+      <h2>Skills Stack</h2>
+      <div class="grid skills-grid">
+        <article class="card">
+          <h3>Frontend</h3>
+          <p>HTML, CSS, TailwindCSS, JavaScript, React.js, Next.js, Three.js, Anime.js</p>
+        </article>
+        <article class="card">
+          <h3>Backend</h3>
+          <p>Node.js, Express.js, Django, Flask, Firebase Admin SDK, REST APIs</p>
+        </article>
+        <article class="card">
+          <h3>Databases</h3>
+          <p>Firebase Firestore, MongoDB, MySQL, SQL</p>
+        </article>
+        <article class="card">
+          <h3>Languages</h3>
+          <p>C, C++, Python, Java, JavaScript</p>
+        </article>
+        <article class="card">
+          <h3>AI and Tools</h3>
+          <p>Hugging Face API, Gemini AI, Gradio, TensorFlow, PyTorch, MONAI</p>
+        </article>
+        <article class="card">
+          <h3>Utilities</h3>
+          <p>Git, Webpack, Vercel, Postman, GCP, Colab, Blender, Firebase Hosting, Docker, Azure</p>
+        </article>
+      </div>
+    </section>
+
+    <section id="tools" class="section" data-reveal>
+      <h2>Tools I Use</h2>
+      <div class="tools-grid">
+        <a class="tool-item" href="https://code.visualstudio.com" target="_blank" rel="noreferrer noopener"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" /><span>VS Code</span></a>
+        <a class="tool-item" href="https://git-scm.com" target="_blank" rel="noreferrer noopener"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" /><span>Git</span></a>
+        <a class="tool-item" href="https://www.docker.com" target="_blank" rel="noreferrer noopener"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" /><span>Docker</span></a>
+        <a class="tool-item" href="https://firebase.google.com" target="_blank" rel="noreferrer noopener"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" /><span>Firebase</span></a>
+        <a class="tool-item" href="https://cloud.google.com" target="_blank" rel="noreferrer noopener"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="GCP" /><span>GCP</span></a>
+        <a class="tool-item" href="https://azure.microsoft.com" target="_blank" rel="noreferrer noopener"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" /><span>Azure</span></a>
+        <a class="tool-item" href="https://www.postman.com" target="_blank" rel="noreferrer noopener"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" /><span>Postman</span></a>
+        <a class="tool-item" href="https://vercel.com" target="_blank" rel="noreferrer noopener"><img src="https://cdn.simpleicons.org/vercel/ffffff" alt="Vercel" /><span>Vercel</span></a>
+        <a class="tool-item" href="https://webpack.js.org" target="_blank" rel="noreferrer noopener"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" alt="Webpack" /><span>Webpack</span></a>
+        <a class="tool-item" href="https://colab.research.google.com" target="_blank" rel="noreferrer noopener"><img src="https://cdn.simpleicons.org/googlecolab/f9ab00" alt="Colab" /><span>Colab</span></a>
+        <a class="tool-item" href="https://www.blender.org" target="_blank" rel="noreferrer noopener"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" alt="Blender" /><span>Blender</span></a>
+        <a class="tool-item" href="https://github.com" target="_blank" rel="noreferrer noopener"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" /><span>GitHub</span></a>
+      </div>
+    </section>
+
+    <section id="achievements" class="section" data-reveal>
+      <h2>Highlights and Achievements</h2>
+      <ul class="timeline">
+        <li>YUGMA TechFest 1.0 Hackathon: 3rd Place (National Level)</li>
+        <li>Monaithon Hackathon @ JNNCE, Shivamogga: 1st Place (National Level)</li>
+        <li>IEEE Eureka Pune 2024: Top 15 Team (National Level)</li>
+        <li>IEEE Eureka Pune 2025: Top 30 Team (National Level)</li>
+        <li>Multiple National-level photography competition wins</li>
+        <li>Short film work as Assistant DOP and crew on Only to You I Surrender (Twameva Sharanam Mama), awarded at IDSFFK 2025</li>
+      </ul>
+    </section>
+
+    <section class="section" data-reveal>
+      <h2>GitHub Activity</h2>
+      <div class="stats-wrap">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=originalWhiteShadow&theme=radical" alt="GitHub stats" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=originalWhiteShadow&theme=radical" alt="Top languages" />
+        <img class="wide" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=originalWhiteShadow&theme=radical" alt="GitHub profile details" />
+      </div>
+    </section>
+
+    <section class="section" data-reveal>
+      <h2>Certifications</h2>
+      <div class="badges">
+        <a href="https://www.credly.com/badges/9bedd713-b9e6-4e6b-b7e8-d33b536f31c0/public_url" target="_blank" rel="noreferrer noopener">
+          <img src="https://images.credly.com/size/340x340/images/bc70837c-99ae-499d-a31d-2a7be79095e6/BadgeEmblem_AILiteracy.png" alt="AI Literacy certification badge" />
+        </a>
+        <a href="https://learn.microsoft.com/api/achievements/share/en-us/poornananda-2252/FQHLKS5X?sharingId=911C837D552FDB83" target="_blank" rel="noreferrer noopener">
+          <img src="https://learn.microsoft.com/training/achievements/configure-project-repository-structure-support-secure-pipelines-social.png" alt="Microsoft Learn achievement" />
+        </a>
+      </div>
+    </section>
+  </main>
+
+  <footer id="contact" class="footer">
+    <p>Let us build something meaningful.</p>
+    <div>
+      <a href="https://github.com/originalWhiteShadow" target="_blank" rel="noreferrer noopener">GitHub</a>
+      <a href="https://arise-osc-test.vercel.app" target="_blank" rel="noreferrer noopener">Community</a>
+      <a href="https://www.ourcinema.in/festival/film/only-to-you-i-surrender-twameva-sharanam-mama/" target="_blank" rel="noreferrer noopener">Film Feature</a>
+    </div>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
