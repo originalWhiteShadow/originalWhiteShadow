@@ -101,11 +101,15 @@
 	<a href="https://learn.microsoft.com/api/achievements/share/en-us/poornananda-2252/FQHLKS5X?sharingId=911C837D552FDB83" target="_blank">
 		<img src="https://learn.microsoft.com/training/achievements/configure-project-repository-structure-support-secure-pipelines-social.png" width="96" alt="Microsoft Learn Achievement Badge" />
 	</a>
+	<a href="https://learn.microsoft.com/api/achievements/share/en-us/poornananda-2252/ZDYZFFT2?sharingId=911C837D552FDB83" target="_blank">
+		<img src="https://learn.microsoft.com/training/achievements/describe-cloud-compute-social.png" width="96" alt="Microsoft Learn Describe cloud computing badge" />
+	</a>
 </p>
 
 <p align="center">
 	<a href="https://www.credly.com/badges/9bedd713-b9e6-4e6b-b7e8-d33b536f31c0/public_url" target="_blank">Credly</a> | 
-	<a href="https://learn.microsoft.com/api/achievements/share/en-us/poornananda-2252/FQHLKS5X?sharingId=911C837D552FDB83" target="_blank">Microsoft Learn</a>
+	<a href="https://learn.microsoft.com/api/achievements/share/en-us/poornananda-2252/FQHLKS5X?sharingId=911C837D552FDB83" target="_blank">Microsoft Learn</a> |
+	<a href="https://learn.microsoft.com/api/achievements/share/en-us/poornananda-2252/ZDYZFFT2?sharingId=911C837D552FDB83" target="_blank">Microsoft Learn (Describe cloud computing)</a>
 </p>
 
 ---
