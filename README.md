@@ -75,42 +75,40 @@
 
 ---
 
-## Contribution and Activity Charts
-
-<p align="center">
-	<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=originalWhiteShadow&theme=radical" height="170" alt="GitHub stats" />
-	<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=originalWhiteShadow&theme=radical" height="170" alt="Top languages" />
-</p>
-
-<p align="center">
-	<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=originalWhiteShadow&theme=radical&utcOffset=5.5" alt="Productive time" />
-</p>
-
-<p align="center">
-	<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=originalWhiteShadow&theme=radical" alt="Activity graph" />
-</p>
-
----
-
 ## Certifications
 
-<p align="center">
-	<a href="https://www.credly.com/badges/9bedd713-b9e6-4e6b-b7e8-d33b536f31c0/public_url" target="_blank">
-		<img src="https://images.credly.com/size/340x340/images/bc70837c-99ae-499d-a31d-2a7be79095e6/BadgeEmblem_AILiteracy.png" width="96" alt="AI Literacy Certification Badge" />
-	</a>
-	<a href="https://learn.microsoft.com/api/achievements/share/en-us/poornananda-2252/FQHLKS5X?sharingId=911C837D552FDB83" target="_blank">
-		<img src="https://learn.microsoft.com/training/achievements/configure-project-repository-structure-support-secure-pipelines-social.png" width="96" alt="Microsoft Learn Achievement Badge" />
-	</a>
-	<a href="https://learn.microsoft.com/api/achievements/share/en-us/poornananda-2252/ZDYZFFT2?sharingId=911C837D552FDB83" target="_blank">
-		<img src="https://learn.microsoft.com/training/achievements/describe-cloud-compute-social.png" width="96" alt="Microsoft Learn Describe cloud computing badge" />
-	</a>
-</p>
-
-<p align="center">
-	<a href="https://www.credly.com/badges/9bedd713-b9e6-4e6b-b7e8-d33b536f31c0/public_url" target="_blank">Credly</a> | 
-	<a href="https://learn.microsoft.com/api/achievements/share/en-us/poornananda-2252/FQHLKS5X?sharingId=911C837D552FDB83" target="_blank">Microsoft Learn</a> |
-	<a href="https://learn.microsoft.com/api/achievements/share/en-us/poornananda-2252/ZDYZFFT2?sharingId=911C837D552FDB83" target="_blank">Microsoft Learn (Describe cloud computing)</a>
-</p>
+<table align="center">
+	<tr>
+		<th>Provider</th>
+		<th>Achievement</th>
+		<th>Badge</th>
+		<th>Credential</th>
+	</tr>
+	<tr>
+		<td>Credly</td>
+		<td>AI Literacy</td>
+		<td><img src="https://images.credly.com/size/340x340/images/bc70837c-99ae-499d-a31d-2a7be79095e6/BadgeEmblem_AILiteracy.png" width="72" alt="AI Literacy Certification Badge" /></td>
+		<td><a href="https://www.credly.com/badges/9bedd713-b9e6-4e6b-b7e8-d33b536f31c0/public_url" target="_blank">View</a></td>
+	</tr>
+	<tr>
+		<td>Microsoft Learn</td>
+		<td>Configure project repository structure to support secure pipelines</td>
+		<td><img src="https://learn.microsoft.com/training/achievements/configure-project-repository-structure-support-secure-pipelines-social.png" width="72" alt="Microsoft Learn Configure project repository structure badge" /></td>
+		<td><a href="https://learn.microsoft.com/api/achievements/share/en-us/poornananda-2252/FQHLKS5X?sharingId=911C837D552FDB83" target="_blank">View</a></td>
+	</tr>
+	<tr>
+		<td>Microsoft Learn</td>
+		<td>Describe cloud computing</td>
+		<td><img src="https://learn.microsoft.com/training/achievements/describe-cloud-compute-social.png" width="72" alt="Microsoft Learn Describe cloud computing badge" /></td>
+		<td><a href="https://learn.microsoft.com/api/achievements/share/en-us/poornananda-2252/ZDYZFFT2?sharingId=911C837D552FDB83" target="_blank">View</a></td>
+	</tr>
+	<tr>
+		<td>Microsoft Learn</td>
+		<td>Describe the benefits of using cloud services</td>
+		<td><img src="https://learn.microsoft.com/training/achievements/describe-benefits-use-cloud-services-social.png" width="72" alt="Microsoft Learn Describe cloud services benefits badge" /></td>
+		<td><a href="https://learn.microsoft.com/api/achievements/share/en-us/poornananda-2252/PGVPM3N4?sharingId=911C837D552FDB83" target="_blank">View</a></td>
+	</tr>
+</table>
 
 ---
 

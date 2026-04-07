@@ -299,40 +299,65 @@ p {
   color: var(--muted);
 }
 
-.stats-wrap {
+.cert-layout {
   display: grid;
-  grid-template-columns: repeat(2, minmax(0, 1fr));
+  grid-template-columns: 2fr 1fr;
   gap: 1rem;
 }
 
-.stats-wrap img {
-  width: 100%;
-  border-radius: 16px;
+.cert-group {
+  background: var(--card);
   border: 1px solid var(--line);
-  background: #0c1122;
+  border-radius: 18px;
+  padding: 1rem;
 }
 
-.stats-wrap .wide {
-  grid-column: 1 / -1;
+.cert-group h3 {
+  margin-bottom: 0.9rem;
 }
 
-.badges {
+.cert-badge-grid {
   display: flex;
   flex-wrap: wrap;
   gap: 1rem;
 }
 
-.badges img {
+.cert-badge-grid-single {
+  max-width: 128px;
+}
+
+.cert-item {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.45rem;
+  text-decoration: none;
+  color: var(--muted);
+  border: 1px solid var(--line);
+  border-radius: 14px;
+  padding: 0.7rem;
+  background: rgba(255, 255, 255, 0.03);
+  transition: transform 0.2s ease, border-color 0.2s ease, background 0.2s ease;
+}
+
+.cert-item img {
   width: 96px;
   height: 96px;
   object-fit: cover;
-  border-radius: 14px;
-  border: 1px solid var(--line);
-  transition: transform 0.2s ease;
+  border-radius: 10px;
+  border: 1px solid rgba(255, 255, 255, 0.16);
 }
 
-.badges img:hover {
-  transform: scale(1.06);
+.cert-item span {
+  font-size: 0.78rem;
+  font-weight: 700;
+  text-align: center;
+}
+
+.cert-item:hover {
+  transform: translateY(-4px);
+  border-color: rgba(123, 231, 255, 0.65);
+  background: rgba(255, 255, 255, 0.07);
 }
 
 .footer {
@@ -394,8 +419,11 @@ p {
     min-height: unset;
   }
 
-  .skills-grid,
-  .stats-wrap {
+  .skills-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .cert-layout {
     grid-template-columns: 1fr;
   }
 
