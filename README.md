@@ -108,6 +108,18 @@
 		<td><img src="https://learn.microsoft.com/training/achievements/describe-benefits-use-cloud-services-social.png" width="72" alt="Microsoft Learn Describe cloud services benefits badge" /></td>
 		<td><a href="https://learn.microsoft.com/api/achievements/share/en-us/poornananda-2252/PGVPM3N4?sharingId=911C837D552FDB83" target="_blank">View</a></td>
 	</tr>
+	<tr>
+		<td>Microsoft Learn</td>
+		<td>Describe cloud service types</td>
+		<td><img src="https://learn.microsoft.com/training/achievements/describe-cloud-service-types-social.png" width="72" alt="Microsoft Learn Describe cloud service types badge" /></td>
+		<td><a href="https://learn.microsoft.com/api/achievements/share/en-us/poornananda-2252/7BX7RLBZ?sharingId=911C837D552FDB83" target="_blank">View</a></td>
+	</tr>
+	<tr>
+		<td>Microsoft Learn</td>
+		<td>Introduction to Cloud Infrastructure: Describe cloud concepts</td>
+		<td><img src="https://learn.microsoft.com/training/achievements/microsoft-azure-fundamentals-describe-cloud-concepts-social.png" width="72" alt="Microsoft Learn Describe cloud concepts badge" /></td>
+		<td><a href="https://learn.microsoft.com/api/achievements/share/en-us/poornananda-2252/HZCHUP28?sharingId=911C837D552FDB83" target="_blank">View</a></td>
+	</tr>
 </table>
 
 ---
