@@ -85,9 +85,9 @@
 		<th>Credential</th>
 	</tr>
 	<tr>
-		<td>Credly</td>
+		<td>IBM (via Credly)</td>
 		<td>AI Literacy</td>
-		<td><img src="https://images.credly.com/size/340x340/images/bc70837c-99ae-499d-a31d-2a7be79095e6/BadgeEmblem_AILiteracy.png" width="72" alt="AI Literacy Certification Badge" /></td>
+		<td><img src="https://images.credly.com/size/340x340/images/bc70837c-99ae-499d-a31d-2a7be79095e6/BadgeEmblem_AILiteracy.png" width="72" alt="IBM AI Literacy certification badge" /></td>
 		<td><a href="https://www.credly.com/badges/9bedd713-b9e6-4e6b-b7e8-d33b536f31c0/public_url" target="_blank">View</a></td>
 	</tr>
 	<tr>
