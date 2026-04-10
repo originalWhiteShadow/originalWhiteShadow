@@ -57,7 +57,7 @@
 ## Tech Stack
 
 <p align="center">
-	<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nextjs,threejs,nodejs,express,django,flask,firebase,mongodb,mysql,python,java,c,cpp,tensorflow,pytorch,docker,azure,gcp,git,webpack,vercel,postman,blender,vscode" alt="Tech icons" />
+	<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nextjs,threejs,nodejs,express,django,flask,firebase,mongodb,mysql,python,java,c,cpp,tensorflow,pytorch,docker,azure,gcp,git,webpack,vercel,postman,blender,unrealengine,vscode" alt="Tech icons" />
 </p>
 
 <p align="center">
@@ -71,7 +71,7 @@
 - **Databases:** Firebase Firestore • MongoDB • MySQL • SQL
 - **Programming Languages:** C • C++ • Python • Java • JavaScript
 - **AI & Tools:** Hugging Face API • Gemini AI • Gradio • TensorFlow • PyTorch • MONAI
-- **Utilities:** Git • Webpack • Vercel • Postman • GCP • Colab • Blender • Firebase Hosting • Docker
+- **Utilities:** Git • Webpack • Vercel • Postman • GCP • Colab • Blender • Unreal Engine • Firebase Hosting • Docker
 
 ---
 
