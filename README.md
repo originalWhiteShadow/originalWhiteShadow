@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Poornananda</h1>
-<h3 align="center">Builder | Problem Solver | Open-Source Community Starter | Creative Technologist</h3>
+<h3 align="center">Engineer| Problem Solver | Open-Source Community | Creativity</h3>
 
 <p align="center">
 	<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1020,50:14213d,100:1f3c88&height=220&section=header&text=Welcome%20to%20my%20profile&fontSize=38&fontColor=f5f7ff&animation=fadeIn&fontAlignY=35" alt="Animated header" />
