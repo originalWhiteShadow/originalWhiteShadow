@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Poornananda</h1>
-<h3 align="center">Builder | Problem Solver | Open-Source Community Starter | Creative Technologist</h3>
+<h3 align="center">Engineer| Problem Solver | Open-Source Community | Creativity</h3>
 
 <p align="center">
 	<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1020,50:14213d,100:1f3c88&height=220&section=header&text=Welcome%20to%20my%20profile&fontSize=38&fontColor=f5f7ff&animation=fadeIn&fontAlignY=35" alt="Animated header" />
@@ -28,7 +28,7 @@
 ## About Me
 
 - I build impactful software with strong fundamentals and practical execution.
-- I work across **Python, C, Java, Flutter, ML/DL, and MERN**.
+- I work across **Python, C, Java, Flutter, ML/DL, MERN, Generative AI, and Prompt Engineering**.
 - I started the open-source community at **SMVITM, Bantakal**.
 - I co-created the ARISE OSC website with **Tejas Nayak**: [arise-osc-test.vercel.app](https://arise-osc-test.vercel.app)
 
@@ -63,6 +63,8 @@
 <p align="center">
 	<img src="https://img.shields.io/badge/Machine%20Learning-0A66C2?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Machine Learning" />
 	<img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Deep Learning" />
+	<img src="https://img.shields.io/badge/Generative%20AI-0077B6?style=for-the-badge&logo=openai&logoColor=white" alt="Generative AI" />
+	<img src="https://img.shields.io/badge/Prompt%20Engineering-2D6A4F?style=for-the-badge" alt="Prompt Engineering" />
 	<img src="https://img.shields.io/badge/Problem%20Solving-Enthusiast-1B4332?style=for-the-badge" alt="Problem Solving" />
 </p>
 
@@ -70,7 +72,7 @@
 - **Backend:** Node.js • Express.js • Django • Flask • Firebase Admin SDK • REST APIs
 - **Databases:** Firebase Firestore • MongoDB • MySQL • SQL
 - **Programming Languages:** C • C++ • Python • Java • JavaScript
-- **AI & Tools:** Hugging Face API • Gemini AI • Gradio • TensorFlow • PyTorch • MONAI
+- **AI & Tools:** Generative AI • Prompt Engineering • Hugging Face API • Gemini AI • Gradio • TensorFlow • PyTorch • MONAI
 - **Utilities:** Git • Webpack • Vercel • Postman • GCP • Colab • Blender • Unreal Engine • Firebase Hosting • Docker
 
 ---
