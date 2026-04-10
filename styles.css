@@ -239,6 +239,10 @@ p {
   grid-template-columns: repeat(3, minmax(0, 1fr));
 }
 
+.genai-grid {
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+
 .card {
   background: var(--card);
   border: 1px solid var(--line);
@@ -296,6 +300,17 @@ p {
 }
 
 .timeline li {
+  color: var(--muted);
+}
+
+.prompt-list {
+  margin: 0.5rem 0 0;
+  padding-left: 1rem;
+  display: grid;
+  gap: 0.5rem;
+}
+
+.prompt-list li {
   color: var(--muted);
 }
 
@@ -420,6 +435,10 @@ p {
   }
 
   .skills-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .genai-grid {
     grid-template-columns: 1fr;
   }
 

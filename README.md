@@ -28,7 +28,7 @@
 ## About Me
 
 - I build impactful software with strong fundamentals and practical execution.
-- I work across **Python, C, Java, Flutter, ML/DL, MERN, Generative AI, and Prompt Engineering**.
+- I work across **Python, C, Java, Flutter, ML/DL, and MERN**.
 - I started the open-source community at **SMVITM, Bantakal**.
 - I co-created the ARISE OSC website with **Tejas Nayak**: [arise-osc-test.vercel.app](https://arise-osc-test.vercel.app)
 
@@ -63,8 +63,6 @@
 <p align="center">
 	<img src="https://img.shields.io/badge/Machine%20Learning-0A66C2?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Machine Learning" />
 	<img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Deep Learning" />
-	<img src="https://img.shields.io/badge/Generative%20AI-0077B6?style=for-the-badge&logo=openai&logoColor=white" alt="Generative AI" />
-	<img src="https://img.shields.io/badge/Prompt%20Engineering-2D6A4F?style=for-the-badge" alt="Prompt Engineering" />
 	<img src="https://img.shields.io/badge/Problem%20Solving-Enthusiast-1B4332?style=for-the-badge" alt="Problem Solving" />
 </p>
 
@@ -72,8 +70,18 @@
 - **Backend:** Node.js • Express.js • Django • Flask • Firebase Admin SDK • REST APIs
 - **Databases:** Firebase Firestore • MongoDB • MySQL • SQL
 - **Programming Languages:** C • C++ • Python • Java • JavaScript
-- **AI & Tools:** Generative AI • Prompt Engineering • Hugging Face API • Gemini AI • Gradio • TensorFlow • PyTorch • MONAI
+- **AI & Tools:** Hugging Face API • Gemini AI • Gradio • TensorFlow • PyTorch • MONAI
 - **Utilities:** Git • Webpack • Vercel • Postman • GCP • Colab • Blender • Unreal Engine • Firebase Hosting • Docker
+
+---
+
+## Generative AI and Prompt Engineering
+
+- I build practical GenAI workflows for assistants, idea generation, and developer productivity.
+- I work with **Gemini AI**, **Hugging Face APIs**, and Python-based tooling to prototype and ship AI features.
+- I design prompts with clear role, objective, constraints, and output format for consistent responses.
+- I use iterative prompt refinement and evaluation loops to improve accuracy, coherence, and usefulness.
+- I focus on balancing creativity with reliability for real-world, production-friendly AI experiences.
 
 ---
 
