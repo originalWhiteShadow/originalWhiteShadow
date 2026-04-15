@@ -23,6 +23,14 @@
 	</a>
 </p>
 
+## Arcade Break
+
+<p align="center">
+	<img src="./assets/retro-runner.svg" alt="Retro runner mini game animation" width="100%" />
+</p>
+
+<p align="center"><i>Mini challenge: dodge blockers, collect power orbs, keep shipping.</i></p>
+
 ---
 
 ## About Me

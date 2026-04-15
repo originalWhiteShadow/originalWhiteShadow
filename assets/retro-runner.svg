@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="260" viewBox="0 0 960 260" role="img" aria-labelledby="title desc">
+  <title id="title">Retro Runner Animation</title>
+  <desc id="desc">A pixel-style runner jumps over moving obstacles in a looping arcade scene.</desc>
+
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#070b1a"/>
+      <stop offset="55%" stop-color="#0f1833"/>
+      <stop offset="100%" stop-color="#15264f"/>
+    </linearGradient>
+    <pattern id="scan" width="8" height="8" patternUnits="userSpaceOnUse">
+      <rect width="8" height="8" fill="transparent"/>
+      <path d="M0 0H8" stroke="#1c2c58" stroke-opacity="0.25"/>
+    </pattern>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="2.2" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="960" height="260" fill="url(#bg)"/>
+  <rect width="960" height="260" fill="url(#scan)"/>
+
+  <text x="26" y="40" fill="#7ce2ff" font-family="'Courier New', monospace" font-size="18" letter-spacing="2">ARCADE MODE: RETRO RUNNER</text>
+  <text x="26" y="64" fill="#9ac0ff" font-family="'Courier New', monospace" font-size="12" opacity="0.9">PRESS START: OPEN SOURCE QUEST</text>
+
+  <rect x="0" y="206" width="960" height="54" fill="#0a132a"/>
+  <rect x="0" y="205" width="960" height="2" fill="#45d6ff" opacity="0.9" filter="url(#glow)"/>
+
+  <g opacity="0.65" stroke="#1f6fff" stroke-width="1">
+    <path d="M0 206 H960"/>
+    <path d="M0 188 H960"/>
+    <path d="M0 170 H960"/>
+  </g>
+
+  <g id="runner" transform="translate(150 174)">
+    <animateTransform attributeName="transform" type="translate" dur="3s" repeatCount="indefinite"
+      values="150 174;150 174;150 116;150 174;150 174" keyTimes="0;0.38;0.52;0.68;1"/>
+
+    <rect x="0" y="0" width="18" height="24" rx="2" fill="#f8f9ff"/>
+    <rect x="3" y="4" width="12" height="5" fill="#1b2d59"/>
+    <rect x="2" y="24" width="6" height="12" fill="#5ce1e6">
+      <animate attributeName="height" dur="0.28s" repeatCount="indefinite" values="12;7;12"/>
+    </rect>
+    <rect x="10" y="24" width="6" height="12" fill="#32b2ff">
+      <animate attributeName="height" dur="0.28s" repeatCount="indefinite" values="7;12;7"/>
+    </rect>
+    <rect x="-4" y="8" width="4" height="4" fill="#ffd166">
+      <animate attributeName="x" dur="0.28s" repeatCount="indefinite" values="-4;-6;-4"/>
+    </rect>
+    <rect x="18" y="10" width="4" height="4" fill="#ffd166">
+      <animate attributeName="x" dur="0.28s" repeatCount="indefinite" values="18;20;18"/>
+    </rect>
+  </g>
+
+  <g fill="#ff5f6d" filter="url(#glow)">
+    <rect x="920" y="182" width="22" height="24">
+      <animate attributeName="x" dur="3s" repeatCount="indefinite" values="920;-40"/>
+    </rect>
+    <rect x="1180" y="188" width="14" height="18">
+      <animate attributeName="x" dur="3s" repeatCount="indefinite" values="1180;220"/>
+    </rect>
+    <rect x="1420" y="176" width="28" height="30">
+      <animate attributeName="x" dur="3s" repeatCount="indefinite" values="1420;460"/>
+    </rect>
+  </g>
+
+  <g fill="#7cffcb" filter="url(#glow)">
+    <circle cx="980" cy="128" r="4">
+      <animate attributeName="cx" dur="3s" repeatCount="indefinite" values="980;20"/>
+    </circle>
+    <circle cx="1210" cy="98" r="5">
+      <animate attributeName="cx" dur="3s" repeatCount="indefinite" values="1210;250"/>
+    </circle>
+    <circle cx="1450" cy="118" r="4">
+      <animate attributeName="cx" dur="3s" repeatCount="indefinite" values="1450;490"/>
+    </circle>
+  </g>
+
+  <text x="744" y="40" fill="#ffd166" font-family="'Courier New', monospace" font-size="16" letter-spacing="1">SCORE: 9001</text>
+  <text x="744" y="62" fill="#ff8fab" font-family="'Courier New', monospace" font-size="12" letter-spacing="1">HIGH SCORE: BUILD + SHIP</text>
+
+  <rect x="0" y="0" width="960" height="260" fill="none" stroke="#3d7eff" stroke-opacity="0.35"/>
+</svg>
